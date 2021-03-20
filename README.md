@@ -10,8 +10,6 @@ Springboot+Mybatis+Mysql数据库
 ![image](https://user-images.githubusercontent.com/68996460/111861581-56d19500-898a-11eb-9cd1-eeec61602dca.png)
 
 
-![Uploading image.png…]()
-
 
 
 ![image](https://user-images.githubusercontent.com/68996460/111861555-31448b80-898a-11eb-9149-cb48e7feb4f1.png)
